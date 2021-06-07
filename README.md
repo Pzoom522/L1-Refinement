@@ -11,7 +11,7 @@ __:see_no_evil: A more detailed readme is coming soon__
 - numpy==1.18.1
 - torch==1.6.0
 - fastText==0.9.2
-- Intel Core i9-9900K CPU with 32+ GB Memory
+- Intel Core i9-9900K CPU with 32GB Memory
 
 
 
