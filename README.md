@@ -1,7 +1,6 @@
 # L1-Refinement
 Code for [Cross-Lingual Word Embedding Refinement by ℓ1 Norm Optimisation](https://www.aclweb.org/anthology/2021.naacl-main.214/) 
 
-__:see_no_evil: A more detailed readme is coming soon__
 
 
 ## Tested environment
